@@ -1,0 +1,5 @@
+08/08/2023 14:11:51 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:11:51 INFO     HLN_SCRAPER          -> Scraping 1
+08/08/2023 14:11:52 DEBUG    HLN_SCRAPER          -> Scraping article 1/1
+08/08/2023 14:11:52 DEBUG    HLN_SCRAPER          -> Title article 1: Na levensbedreigende slangenbeet in Kroatië bekomt Thibaut (6) nu in het UZ Gent: “Hij zal hier nog minstens tot het einde van de week blijven”
+08/08/2023 14:11:52 INFO     HLN_SCRAPER          -> Done Scraping, found 1 articles' title

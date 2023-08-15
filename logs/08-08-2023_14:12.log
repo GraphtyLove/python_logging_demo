@@ -1,0 +1,36 @@
+08/08/2023 14:12:19 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:12:19 INFO     HLN_SCRAPER          -> Scraping 1
+08/08/2023 14:12:20 DEBUG    HLN_SCRAPER          -> Scraping article 1/1
+08/08/2023 14:12:20 DEBUG    HLN_SCRAPER          -> Title article 1: Na levensbedreigende slangenbeet in Kroatië bekomt Thibaut (6) nu in het UZ Gent: “Hij zal hier nog minstens tot het einde van de week blijven”
+08/08/2023 14:12:20 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:12:20 INFO     HLN_SCRAPER          -> Done Scraping, found 1 articles' title
+08/08/2023 14:12:40 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:12:40 INFO     HLN_SCRAPER          -> Scraping 9
+08/08/2023 14:12:41 DEBUG    HLN_SCRAPER          -> Scraping article 1/9
+08/08/2023 14:12:41 DEBUG    HLN_SCRAPER          -> Title article 1: Na levensbedreigende slangenbeet in Kroatië bekomt Thibaut (6) nu in het UZ Gent: “Hij zal hier nog minstens tot het einde van de week blijven”
+08/08/2023 14:12:41 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:41 DEBUG    HLN_SCRAPER          -> Scraping article 2/9
+08/08/2023 14:12:41 DEBUG    HLN_SCRAPER          -> Title article 2: Zwembad Palaestra gesloten door technisch defect
+08/08/2023 14:12:41 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:12:41 DEBUG    HLN_SCRAPER          -> Scraping article 3/9
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Title article 3: Acteurs uit Vikings en Game of Thrones te gast op Elftopia
+08/08/2023 14:12:42 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Scraping article 4/9
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Title article 4: Skatekamp aan Briel
+08/08/2023 14:12:42 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Scraping article 5/9
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Title article 5: Skatekamp aan Briel
+08/08/2023 14:12:42 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Scraping article 6/9
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Title article 6: Skatekamp aan Briel
+08/08/2023 14:12:42 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:42 DEBUG    HLN_SCRAPER          -> Scraping article 7/9
+08/08/2023 14:12:43 DEBUG    HLN_SCRAPER          -> Title article 7: Skatekamp aan Briel
+08/08/2023 14:12:43 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:12:43 DEBUG    HLN_SCRAPER          -> Scraping article 8/9
+08/08/2023 14:12:43 DEBUG    HLN_SCRAPER          -> Title article 8: Skatekamp aan Briel
+08/08/2023 14:12:43 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:12:43 DEBUG    HLN_SCRAPER          -> Scraping article 9/9
+08/08/2023 14:12:43 DEBUG    HLN_SCRAPER          -> Title article 9: Skatekamp aan Briel
+08/08/2023 14:12:43 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:12:43 INFO     HLN_SCRAPER          -> Done Scraping, found 9 articles' title

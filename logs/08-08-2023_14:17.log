@@ -1,0 +1,12 @@
+08/08/2023 14:17:04 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:17:04 INFO     HLN_SCRAPER          -> Scraping 9
+08/08/2023 14:17:05 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:17:05 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:17:06 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:17:06 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:17:07 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:17:07 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:17:07 CRITICAL BOUMAN_DB            -> Article failed to be added to DB!
+08/08/2023 14:17:07 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:17:07 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:17:07 INFO     HLN_SCRAPER          -> Done Scraping, found 9 articles' title

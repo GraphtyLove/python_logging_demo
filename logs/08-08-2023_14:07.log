@@ -1,0 +1,18 @@
+08/08/2023 14:07:44 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:07:44 INFO     HLN_SCRAPER          -> Scraping 1
+08/08/2023 14:07:44 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): www.hln.be:443
+08/08/2023 14:07:44 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET / HTTP/1.1" 302 0
+08/08/2023 14:07:44 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): myprivacy.dpgmedia.be:443
+08/08/2023 14:07:45 DEBUG    urllib3.connectionpool -> https://myprivacy.dpgmedia.be:443 "GET /consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252F HTTP/1.1" 200 2494
+08/08/2023 14:07:45 DEBUG    HLN_SCRAPER          -> Scraping article 1/1
+08/08/2023 14:07:53 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:07:53 INFO     HLN_SCRAPER          -> Scraping 1
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): www.hln.be:443
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET / HTTP/1.1" 302 0
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): myprivacy.dpgmedia.be:443
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> https://myprivacy.dpgmedia.be:443 "GET /consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252F HTTP/1.1" 200 2492
+08/08/2023 14:07:53 DEBUG    HLN_SCRAPER          -> Scraping article 1/1
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /deinze/na-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545/ HTTP/1.1" 302 0
+08/08/2023 14:07:53 DEBUG    urllib3.connectionpool -> https://myprivacy.dpgmedia.be:443 "GET /consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252Fdeinze%252Fna-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545%252F HTTP/1.1" 303 None
+08/08/2023 14:07:54 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /privacy-gate/accept-tcf2?redirectUri=%2Fdeinze%2Fna-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545%2F&authId=1136fba7-2ded-4fab-9fa7-89a4658acb5f HTTP/1.1" 302 0
+08/08/2023 14:07:54 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /deinze/na-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545/ HTTP/1.1" 200 64138

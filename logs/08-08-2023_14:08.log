@@ -1,0 +1,14 @@
+08/08/2023 14:08:09 INFO     HLN_SCRAPER          -> Start scraping...
+08/08/2023 14:08:09 INFO     HLN_SCRAPER          -> Scraping 1
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): www.hln.be:443
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET / HTTP/1.1" 302 0
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> Starting new HTTPS connection (1): myprivacy.dpgmedia.be:443
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://myprivacy.dpgmedia.be:443 "GET /consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252F HTTP/1.1" 200 2493
+08/08/2023 14:08:09 DEBUG    HLN_SCRAPER          -> Scraping article 1/1
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /deinze/na-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545/ HTTP/1.1" 302 0
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://myprivacy.dpgmedia.be:443 "GET /consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252Fdeinze%252Fna-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545%252F HTTP/1.1" 303 None
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /privacy-gate/accept-tcf2?redirectUri=%2Fdeinze%2Fna-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545%2F&authId=4c4f9486-9d01-4ed6-8e61-aa6173ca5799 HTTP/1.1" 302 0
+08/08/2023 14:08:09 DEBUG    urllib3.connectionpool -> https://www.hln.be:443 "GET /deinze/na-levensbedreigende-slangenbeet-in-kroatie-bekomt-thibaut-6-nu-in-het-uz-gent-hij-zal-hier-nog-minstens-tot-het-einde-van-de-week-blijven~a21ad545/ HTTP/1.1" 200 64138
+08/08/2023 14:08:09 DEBUG    HLN_SCRAPER          -> Title article 1: Na levensbedreigende slangenbeet in Kroatië bekomt Thibaut (6) nu in het UZ Gent: “Hij zal hier nog minstens tot het einde van de week blijven”
+08/08/2023 14:08:09 INFO     BOUMAN_DB            -> Article added to db!
+08/08/2023 14:08:09 INFO     HLN_SCRAPER          -> Done Scraping, found 1 articles' title
